@@ -1,0 +1,44 @@
+.ptabout-container {
+  width: 500px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-style: groove;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  border-left-width: var(--dl-size-size-xsmall);
+}
+.ptabout-text {
+  width: 80%;
+  max-width: 500px;
+  text-align: justify;
+  line-height: 1.5;
+}
+.ptabout-text02 {
+  line-height: 1.5;
+}
+.ptabout-text05 {
+  line-height: 1.5;
+}
+.ptabout-text08 {
+  line-height: 1.5;
+}
+.ptabout-text11 {
+  line-height: 1.5;
+}
+.ptabout-text14 {
+  line-height: 1.5;
+}
+.ptabout-text18 {
+  line-height: 1.5;
+}
+
+
+@media(max-width: 479px) {
+  .ptabout-root-class-name {
+    width: 100%;
+    max-width: 500px;
+  }
+}

@@ -1,0 +1,40 @@
+.enabout-container {
+  width: 500px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-style: groove;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  border-left-width: var(--dl-size-size-xsmall);
+}
+.enabout-text {
+  width: 80%;
+  max-width: 500px;
+  text-align: justify;
+  line-height: 1.5;
+}
+.enabout-text02 {
+  line-height: 1.5;
+}
+.enabout-text05 {
+  line-height: 1.5;
+}
+.enabout-text08 {
+  line-height: 1.5;
+}
+.enabout-text11 {
+  line-height: 1.5;
+}
+.enabout-text14 {
+  line-height: 1.5;
+}
+.enabout-text17 {
+  line-height: 1.5;
+}
+.enabout-text20 {
+  line-height: 1.5;
+}
+
